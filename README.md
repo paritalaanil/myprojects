@@ -1,2 +1,2 @@
 # myprojects
-POC Applications and Small peace of code.
+This is for the POC Applications and Small peace of code.
